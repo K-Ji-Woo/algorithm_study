@@ -12,7 +12,6 @@
 #                         print()
 
 
-
 number_list = range(0, 10)
 numbers = []
 
